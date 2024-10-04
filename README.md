@@ -1,4 +1,4 @@
-# Ch2.4
+# Module 02
 # Exercise: Amending a Commit
 
 ## Step 1
